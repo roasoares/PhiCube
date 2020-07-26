@@ -1,0 +1,2 @@
+# PhiCube
+Scripts configurações PhiCube
